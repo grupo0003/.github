@@ -4,4 +4,4 @@
 
 ### Desafio 03 da quarta sprint do programa de bolsas.
 
-#### compassUol `#dreamBigger🚀💛`
+<b>compassUol</b> `#dreamBigger🚀💛`
